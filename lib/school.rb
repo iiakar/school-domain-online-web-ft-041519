@@ -1,3 +1,3 @@
 class School
   
-  def initialize()
+  def initialize(new)
