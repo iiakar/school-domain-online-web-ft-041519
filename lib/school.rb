@@ -4,6 +4,7 @@ class School
   
   
   def initialize(name)
+  Roster =[]
   end
 
 def add_student(name,grade) 
