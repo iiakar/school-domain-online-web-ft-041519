@@ -5,4 +5,8 @@ class School
   
   def initialize(name)
   end
+
+def add
+
+
 end
