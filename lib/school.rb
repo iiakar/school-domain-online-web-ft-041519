@@ -1,6 +1,6 @@
 class School
   
-  Roster =[]
+  
   
   
   def initialize(name)
