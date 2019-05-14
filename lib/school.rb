@@ -6,7 +6,8 @@ class School
   def initialize(name)
   end
 
-def add
-
-
+def add_student(name,grade) 
+  Roster << name 
+  Roster << grade 
 end
+end 
